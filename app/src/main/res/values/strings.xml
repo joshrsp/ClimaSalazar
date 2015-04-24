@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClimaSalazar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="clima">New Button</string>
+    <string name="climas">New Button</string>
+    <string name="texto">Medium Text</string>
+    <string name="Network">New Button</string>
+</resources>
